@@ -1,0 +1,3 @@
+:HL["/sheraa/_next/static/chunks/82fd535f938a0160.css","style"]
+:HC["/",""]
+0:{"buildId":"VUGC05n9r6cZy3WrT75Hj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
